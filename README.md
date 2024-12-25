@@ -1,33 +1,28 @@
+# Calendar To-Do List App 🗓️
+
+A simple and intuitive productivity app to manage tasks and schedules. This app combines a calendar view with a to-do list, helping you stay organized and never miss a task!
 
 ---
 
-### **Calendar To-Do List App - README.md**  
+## Features
 
-```markdown
-# Calendar To-Do List App 🗓️  
-
-A productivity app to manage tasks and schedules effortlessly. Combines a calendar view and a to-do list to keep you organized.  
-
----
-
-## Features  
-
-- Add, edit, and delete tasks.  
-- View tasks by day, week, or month.  
-- Responsive design for all devices.  
+- Add, edit, and delete tasks.
+- View tasks by day, week, or month.
+- Responsive and user-friendly design.
+- Easily switch between calendar and task list views.
 
 ---
 
-## Tech Stack  
+## Tech Stack
 
-- **HTML**  
-- **CSS** (Tailwind CSS)  
-- **JavaScript**  
+- **HTML**
+- **CSS** (Tailwind CSS)
+- **JavaScript**
 
 ---
 
-## Usage  
+## Installation
 
-1. Clone the repository:  
-   ```bash  
-   git clone https://github.com/P4L4SH/Calendar-ToDo-App.git  
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/P4L4SH/Calendar-ToDo-App.git
